@@ -1,0 +1,2 @@
+# Inversion
+Trading por bot
